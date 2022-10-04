@@ -44,7 +44,8 @@ namespace _03_inclass.Controllers
         /// </summary>
         /// <returns>a string of numbers from 1 to 10</returns>
         /// <example>
-        /// api/loop/ForLoop-> 12345678910</example>
+        /// api/loop/ForLoop-> 12345678910
+        /// </example>
 
         [HttpGet]
         public string ForLoop()
